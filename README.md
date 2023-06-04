@@ -51,6 +51,6 @@ Stay safe, stay connected!
 
 **Contributors**
 - Jose Jimenez
-- Jeff Rallye Lucena
+- Jeff Lucena
 - Dimpal Shah
 - Athena Jacob
