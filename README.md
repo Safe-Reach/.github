@@ -47,6 +47,4 @@ Stay safe, stay connected!
 
 **Contributors**
 - Jose Jimenez
-- Jeff Lucena
 - Dimpal Shah
-- Athena Jacob
